@@ -61,13 +61,12 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Blog Template</title>
+  <title>Jonathan's Blog</title>
 </svelte:head>
 
 <div class="home-container">
   <div class="home-copy">
-    <h1>Welcome to your new Sapper Blog</h1>
-    <p>Check out the docs on <a href="https://www.github.com/Charca/sapper-blog-template" target="_blank">GitHub</a> to get started.</p>
+    <h1>Jonathan's Blog</h1>
   </div>
 
   <figure>
