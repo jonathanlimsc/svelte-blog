@@ -19,11 +19,11 @@
 </style>
 
 <div>
-  <img src="profile-pic.png" alt="Maxi Ferreira">
+  <img src="profile-pic.png" alt="Jonathan Lim">
   <p>
-    Hi, I'm <strong>Maxi</strong>. I'm a software engineer and data scientist from Córdoba, Argentina.
-    You can follow me on <a href="https://www.twitter.com/Charca" target="_blank">Twitter</a>,
-    see some of my work on <a href="https://www.github.com/Charca" target="_blank">GitHub</a>,
-    or read more about me on <a href="https://www.maxiferreira.com" target="_blank">my website</a>.
+    Hi, I'm <strong>Jonathan</strong>. I'm a data scientist and machine learning engineer from Singapore.
+    You can follow me on <a href="https://www.twitter.com/jonathanlimsc" target="_blank">Twitter</a>,
+    see some of my work on <a href="https://www.github.com/jonathanlimsc" target="_blank">GitHub</a>,
+    or read more about me on <a href="https://www.jonathanlimsc.com" target="_blank">my website</a>.
   </p>
 </div>
